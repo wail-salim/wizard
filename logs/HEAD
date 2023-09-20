@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 40ccf04825ba3c087f53b7eab778a4897585b734 wailsalim <mnobeko405@gmail.com> 1693997439 +0200	commit (initial): my first code
+40ccf04825ba3c087f53b7eab778a4897585b734 fabc4ed4c7ef317ee1fa06353551f0ba6dd978ad wailsalim <mnobeko405@gmail.com> 1694074436 +0200	commit: latest update
+fabc4ed4c7ef317ee1fa06353551f0ba6dd978ad 40ccf04825ba3c087f53b7eab778a4897585b734 wailsalim <mnobeko405@gmail.com> 1694074542 +0200	checkout: moving from master to 40ccf04
+40ccf04825ba3c087f53b7eab778a4897585b734 fabc4ed4c7ef317ee1fa06353551f0ba6dd978ad wailsalim <mnobeko405@gmail.com> 1694075609 +0200	checkout: moving from 40ccf04825ba3c087f53b7eab778a4897585b734 to master
+fabc4ed4c7ef317ee1fa06353551f0ba6dd978ad 9ca360c64235d2884b8a16822bdab27d42e90853 wailsalim <mnobeko405@gmail.com> 1694075648 +0200	revert: Revert "latest update"
+9ca360c64235d2884b8a16822bdab27d42e90853 9ca360c64235d2884b8a16822bdab27d42e90853 wailsalim <mnobeko405@gmail.com> 1694075966 +0200	checkout: moving from master to master
+9ca360c64235d2884b8a16822bdab27d42e90853 40ccf04825ba3c087f53b7eab778a4897585b734 wailsalim <mnobeko405@gmail.com> 1694076182 +0200	reset: moving to 40ccf04
+40ccf04825ba3c087f53b7eab778a4897585b734 18b5e943aa06fc83da88f08827cccb463c2acad7 wailsalim <mnobeko405@gmail.com> 1694965232 +0200	commit: hello
+18b5e943aa06fc83da88f08827cccb463c2acad7 18b5e943aa06fc83da88f08827cccb463c2acad7 wailsalim <mnobeko405@gmail.com> 1694965894 +0200	checkout: moving from master to laland
+18b5e943aa06fc83da88f08827cccb463c2acad7 18b5e943aa06fc83da88f08827cccb463c2acad7 wailsalim <mnobeko405@gmail.com> 1694966778 +0200	checkout: moving from laland to mickel
+18b5e943aa06fc83da88f08827cccb463c2acad7 f61a87dc1df396e02182f388f11c6606916fcafc wailsalim <mnobeko405@gmail.com> 1694966888 +0200	commit: lastly
+f61a87dc1df396e02182f388f11c6606916fcafc 18b5e943aa06fc83da88f08827cccb463c2acad7 wailsalim <mnobeko405@gmail.com> 1695043357 +0200	checkout: moving from mickel to master
+18b5e943aa06fc83da88f08827cccb463c2acad7 18b5e943aa06fc83da88f08827cccb463c2acad7 wailsalim <mnobeko405@gmail.com> 1695043426 +0200	checkout: moving from master to wail
+18b5e943aa06fc83da88f08827cccb463c2acad7 c7cbddc16175d7e334261f882d8dfb961d0f7d03 wailsalim <mnobeko405@gmail.com> 1695043581 +0200	commit: final one
+c7cbddc16175d7e334261f882d8dfb961d0f7d03 18b5e943aa06fc83da88f08827cccb463c2acad7 wailsalim <mnobeko405@gmail.com> 1695043604 +0200	checkout: moving from wail to master
+18b5e943aa06fc83da88f08827cccb463c2acad7 c7cbddc16175d7e334261f882d8dfb961d0f7d03 wailsalim <mnobeko405@gmail.com> 1695043627 +0200	merge wail: Fast-forward

@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 40ccf04825ba3c087f53b7eab778a4897585b734 wailsalim <mnobeko405@gmail.com> 1693997439 +0200	commit (initial): my first code
+40ccf04825ba3c087f53b7eab778a4897585b734 fabc4ed4c7ef317ee1fa06353551f0ba6dd978ad wailsalim <mnobeko405@gmail.com> 1694074436 +0200	commit: latest update
+fabc4ed4c7ef317ee1fa06353551f0ba6dd978ad 9ca360c64235d2884b8a16822bdab27d42e90853 wailsalim <mnobeko405@gmail.com> 1694075648 +0200	revert: Revert "latest update"
+9ca360c64235d2884b8a16822bdab27d42e90853 40ccf04825ba3c087f53b7eab778a4897585b734 wailsalim <mnobeko405@gmail.com> 1694076182 +0200	reset: moving to 40ccf04
+40ccf04825ba3c087f53b7eab778a4897585b734 18b5e943aa06fc83da88f08827cccb463c2acad7 wailsalim <mnobeko405@gmail.com> 1694965232 +0200	commit: hello
+18b5e943aa06fc83da88f08827cccb463c2acad7 c7cbddc16175d7e334261f882d8dfb961d0f7d03 wailsalim <mnobeko405@gmail.com> 1695043627 +0200	merge wail: Fast-forward
